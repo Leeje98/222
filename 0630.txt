@@ -1,0 +1,24 @@
+styled 사용하기
+
+npx create-react-app styled-components 
+// 리액트 설치와 styled-components이름의 파일생성
+
+cd styled-components
+// 파일 위치로 한칸 내려가기
+
+npm i --save sytled-components
+// sytled 설치
+
+
+
+첫줄의 import React from "react";
+경고가 뜨면 주석처리
+
+컨트롤 c == 일괄 작업을 끝내시겠습니까?
+
+src 파일만 남기고 삭제하기 충돌을 피하기 위해서
+
+
+emotion.sh (이모션) 사용하기는 캡쳐파일 참고
+
+emotion.sh 검색해서 들어가기
